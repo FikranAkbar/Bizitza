@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97026d70dff36804d9f8b0f5a473bec8, type: 3}
+  m_Name: En_Enemy4a_10
+  m_EditorClassIdentifier: 
+  gestures:
+  - {fileID: 11400000, guid: 3ceec4d8f0b0e2b40ae4765240c3309e, type: 2}
+  - {fileID: 11400000, guid: 2e34bbbd0bdff6349b40098a244bff85, type: 2}
+  spawnPoint: {x: 10, y: 0}
+  enemySprite: {fileID: 21300000, guid: 14a26c404f629484fb4932d2b6646974, type: 3}
+  enemyAnimator: {fileID: 9100000, guid: 3882f49dff7fe4643890e37fc8c8ccb5, type: 2}
+  moveSpeed: 2

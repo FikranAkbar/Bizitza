@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1205087274861185329
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1205087274861185295}
+  - component: {fileID: 1205087274861185294}
+  m_Layer: 0
+  m_Name: PrologManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1205087274861185295
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1205087274861185329}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 352.88733, y: 238.16194, z: -54.625}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1205087274861185294
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1205087274861185329}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 004174effa4670c46a026bf3742c79b1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadingGhost: {fileID: 0}
+  unityLogo: {fileID: 0}
+  unityHeaderText: {fileID: 0}
+  fmodLogo: {fileID: 0}
+  fmodHeaderText: {fileID: 0}
+  doTweenLogo: {fileID: 0}
+  doTweenHeaderText: {fileID: 0}
+  prologScenarios:
+  - {fileID: 11400000, guid: 944954aa856fa0e4e908ba847a8c87c0, type: 2}
+  - {fileID: 11400000, guid: 8d644d6c3b1fd0d4eaf69e4ae82b2de5, type: 2}
+  - {fileID: 11400000, guid: 159d8257f0ed39a4082a84f0a7ea30dc, type: 2}
+  - {fileID: 11400000, guid: 76f4c13a599d69b4ab63c58b6e911513, type: 2}
+  - {fileID: 11400000, guid: dcaa98332c805014db32fac46ff324f2, type: 2}
+  prologComicBoxes:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  blackScreen: {fileID: 0}
+  slideDuration: 0.4
+  prologPageSound: {fileID: 0}
+  prologSound: {fileID: 0}
+  isAllPageOut: 0

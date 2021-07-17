@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{6b872415-2a4b-4570-9709-a2e838c03fe8}">
+		<property name="assetPath">
+			<value>Bats In The Belfry.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>92.839183673469392</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{8a03edfa-99e1-47c9-80d2-a51d21a7ae6f}</destination>
+		</relationship>
+	</object>
+</objects>

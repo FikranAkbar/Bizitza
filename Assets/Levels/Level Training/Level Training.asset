@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bde92e9abc37ff14dbafc41432bc6bef, type: 3}
+  m_Name: Level Training
+  m_EditorClassIdentifier: 
+  waves:
+  - {fileID: 11400000, guid: ba7d139a1fb66af42943260f5a547b8e, type: 2}
+  - {fileID: 11400000, guid: cce9254cc9af96645856fc02e3ce8bf1, type: 2}
+  bossWave: {fileID: 0}

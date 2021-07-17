@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f7d7348e1464d8498292084c7118bda, type: 3}
+  m_Name: L2_Wave3a
+  m_EditorClassIdentifier: 
+  enemies:
+  - {fileID: 11400000, guid: 9c48143965c7f8545a13162a0eed637a, type: 2}
+  - {fileID: 11400000, guid: 7ed604383cdede148a9d0796f3738b22, type: 2}
+  - {fileID: 11400000, guid: 37598c7ec69ab494ebe88102e2fa182a, type: 2}
+  timeToStartWave: 2
+  timeBtwnSpawn: 1

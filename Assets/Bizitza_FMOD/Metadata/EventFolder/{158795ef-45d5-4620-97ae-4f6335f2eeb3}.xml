@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="EventFolder" id="{158795ef-45d5-4620-97ae-4f6335f2eeb3}">
+		<property name="name">
+			<value>Gesture Corrent Sound</value>
+		</property>
+		<relationship name="folder">
+			<destination>{1d8d4df4-ba24-4800-9cf3-208924d9bcbd}</destination>
+		</relationship>
+	</object>
+</objects>

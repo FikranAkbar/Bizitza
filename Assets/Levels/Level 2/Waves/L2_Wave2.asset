@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f7d7348e1464d8498292084c7118bda, type: 3}
+  m_Name: L2_Wave2
+  m_EditorClassIdentifier: 
+  enemies:
+  - {fileID: 11400000, guid: b09a56c76fd5de3448e4896f79abcfde, type: 2}
+  - {fileID: 11400000, guid: 778188d0d63d69243938469f4e51d541, type: 2}
+  - {fileID: 11400000, guid: 4790a19236a9e6141a12dc2e9a658420, type: 2}
+  - {fileID: 11400000, guid: 6a0522d6a77da9f4988959185e3577b2, type: 2}
+  - {fileID: 11400000, guid: 410afc220d7c9224d86362d4f1ebc6df, type: 2}
+  - {fileID: 11400000, guid: 4b420db6ca0e90249afb8c9d48c7cd14, type: 2}
+  - {fileID: 11400000, guid: 8fd193fdbc51b2d4e8a91dce2adb730e, type: 2}
+  - {fileID: 11400000, guid: c19ce721298d3c94ebf7f0739a1a3a40, type: 2}
+  timeToStartWave: 2
+  timeBtwnSpawn: 1.5

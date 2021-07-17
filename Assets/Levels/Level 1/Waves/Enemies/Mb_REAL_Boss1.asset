@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e068ecf9ef67e742a6eb77c59147b27, type: 3}
+  m_Name: Mb_REAL_Boss1
+  m_EditorClassIdentifier: 
+  gestures: []
+  bossAnimator: {fileID: 9100000, guid: 7487ec51ae2db58419f933eb93c9769a, type: 2}
+  moveSpeed: 1
