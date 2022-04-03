@@ -6,7 +6,7 @@ Repository For Bizitza
 </h5>
 
 <p align="center">
-Project for submission in "Belajar Membuat Aplikasi Android Untuk Pemula" course dicoding. Bekasi Tourism Place is an application that listing the vacation spot in bekasi also detail like description, location, operation hours, and the ticket price
+Remake version of Magic Cat Academy. Bizitza is a single-player action-adventure game that brings the story of The Prince of the Forest Kingdom that found a strange magic wand falling from the sky that change the whole forest becomes dark. You will play as Prince to go back to the castle and save the family and whole kingdom.
 </p>
 
 <p align="center">
