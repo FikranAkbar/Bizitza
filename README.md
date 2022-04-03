@@ -6,7 +6,7 @@ Repository For Bizitza
 </h5>
 
 <p align="center">
-Remake version of Magic Cat Academy. Bizitza is a single-player action-adventure game that brings the story of The Prince of the Forest Kingdom that found a strange magic wand falling from the sky that change the whole forest becomes dark. You will play as Prince to go back to the castle and save the family and whole kingdom.
+Remake version of Magic Cat Academy. Bizitza is a single-player action-adventure game that brings the story of The Prince of the Forest Kingdom that found a strange magic wand falling from the sky that change the whole forest becomes dark. You will play as Prince to go back to the castle and save the family and whole kingdom. Here is a link to download the game: https://chessporg.itch.io/bizitza
 </p>
 
 <p align="center">
